@@ -25,6 +25,10 @@ Meu objetivo é iniciar minha trajetória profissional como Analista de Dados, c
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucaselpidio&repo=my_projects&theme=dark)](https://github.com/lucaselpidio/my_projects)
 
+### Portfólio 
+
+[Acesse clicando aqui](https://lucaselpidio.github.io/meu-portfolio-dados/)
+
 
 ### Linguagens utilizadas
 
