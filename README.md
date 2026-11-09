@@ -1,39 +1,38 @@
-### Olá 👋
+# Lucas Victor Elpidio
 
-###### Sobre o Lucas
-Analista de Dados formado pela EBAC – Escola Britânica de Artes Criativas e Tecnologia, graduado em Análise e Desenvolvimento de Sistemas pela UNINTER (2021). Profissional com perfil analítico e comunicativo.
+**Analista de Dados · BI** · Ponta Grossa, PR
 
-Elaboração de análises exploratórias de dados para identificar padrões, tendências, oportunidades, transformando dados em informações estratégicas. Construção de dashboards e relatórios com ferramentas de BI.
-Desenvolvimento de projetos acadêmicos, realizando a construção de bases de dados particionadas e compactadas a fim de otimizar custos de consultas SQL e computação em nuvem escalável com AWS.
+Dados confiáveis, do export bruto ao relatório que decide.
 
- Habilidades em:
-- Python
-- SQL
-- Ferramentas de BI (Looker).
-- Excel
-- AWS
-- Versionamento de códigos com Git
+Trabalho numa empresa de infoprodutos com relatórios comerciais, de mídias sociais e de tráfego pago, além da segmentação e qualificação de leads. Construo painéis e relatórios a partir de exports e planilhas, com regras de métricas documentadas, auditoria de dados e testes automatizados que conferem os números a cada mudança.
 
-Meu objetivo é iniciar minha trajetória profissional como Analista de Dados, contribuindo com soluções baseadas em dados que gerem valor e apoiem a tomada de decisão nas empresas.
+**[Portfólio](https://lucaselpidio.github.io/meu-portfolio-dados/)** · [LinkedIn](https://www.linkedin.com/in/lucas-victor-elpidio/) · [Currículo (PDF)](https://lucaselpidio.github.io/meu-portfolio-dados/curriculo/Lucas-Victor-Elpidio-Curriculo.pdf) · [E-mail](mailto:lucasvex16@gmail.com)
 
+## Projetos em destaque
 
-### Detalhes
+Feitos no trabalho e publicados em versões públicas com dados 100% fictícios. As demonstrações rodam no navegador.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaselpidio&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+| Projeto | O que faz | |
+|---|---|---|
+| **Relatório Comercial Dinâmico** | Primeiro painel da área comercial: metas por produto e por vendedor, funil diário por agente, renda dos leads e auditoria entre o funil informado e as vendas registradas. | [Demo](https://lucaselpidio.github.io/relatorio-comercial-dinamico/) · [Código](https://github.com/lucaselpidio/relatorio-comercial-dinamico) |
+| **Painel de Desempenho no Instagram** | Relatório para clientes a partir dos exports do Meta Business Suite: feed, stories, público e colaborações, com leituras automáticas e PDF. | [Demo](https://lucaselpidio.github.io/painel-desempenho-instagram/) · [Código](https://github.com/lucaselpidio/painel-desempenho-instagram) |
+| **Painel de Desempenho no TikTok** | Junta exports do TikTok Studio num histórico único e só compara períodos com dados completos. Testes, build e publicação no GitHub Actions. | [Demo](https://lucaselpidio.github.io/painel-desempenho-tiktok/) · [Código](https://github.com/lucaselpidio/painel-desempenho-tiktok) |
 
-### Projetos
+## Estudos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucaselpidio&repo=my_projects&theme=dark)](https://github.com/lucaselpidio/my_projects)
+Análises com dados públicos, da formação em Análise de Dados (EBAC) e de projetos pessoais:
 
-### Portfólio 
+- [E-commerce Olist](https://github.com/lucaselpidio/ecommerce-olist-eda): vendas, preços e impacto do prazo de entrega na avaliação · Python, Pandas
+- [Análise de crédito com SQL](https://github.com/lucaselpidio/credit-eda-sql): perfil de clientes com consultas no AWS Athena · SQL, AWS
+- [Pipeline de dados do Telegram](https://github.com/lucaselpidio/pipeline-dados-telegram): ETL diário com API Gateway, Lambda, S3 e EventBridge · AWS, Python
+- [Bike Sharing em Londres](https://github.com/lucaselpidio/bike_sharing_london): fatores dos aluguéis e modelo de regressão · Python, machine learning
+- [COVID-19](https://github.com/lucaselpidio/covid-19-eda) e [Catálogo Disney+](https://github.com/lucaselpidio/disneyplus_EDA): análises exploratórias · Python, Pandas
 
-[Acesse clicando aqui](https://lucaselpidio.github.io/meu-portfolio-dados/)
+## Ferramentas
 
+SQL · Python (Pandas, NumPy, Seaborn) · Excel · Google Sheets · Looker Studio · JavaScript · Node.js · AWS (S3, Athena, Lambda) · Git e GitHub · GitHub Actions · Claude Code
 
-### Linguagens utilizadas
+## Formação
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaselpidio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-### Contatos
-
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/lucas-victor-elpidio/)
+- Análise de Dados, EBAC (2024–2025)
+- Tecnólogo em Análise e Desenvolvimento de Sistemas, UNINTER (2018–2021)
